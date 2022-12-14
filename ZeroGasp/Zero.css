@@ -1,0 +1,53 @@
+*{
+margin: 5%;
+padding: 0;
+box-sizing: border-box;
+text-transform: none;
+text-decoration: none; 
+color: aliceblue;
+}
+
+body{
+    background-color: black; 
+
+}
+
+.Moncadre, .cnx{
+border-style: double;
+background-color: rgb(44, 85, 85);
+
+}
+
+.cnx{
+position: relative;
+margin-top: 0%;
+
+}
+
+.hello{
+color: white;
+border-style: double;
+text-align: center;
+
+}
+
+p{
+text-align: center ;
+border-style: groove;
+border-radius: 100%;
+
+
+
+
+}
+
+vid{
+    border-style: double;
+    background-color: rgb(44, 85, 85);
+
+}
+
+form{
+  text-align: center;
+  scroll-margin-block: 2em;
+}
