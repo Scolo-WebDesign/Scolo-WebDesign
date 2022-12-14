@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+#title {
+color: #fff;
+background-color: rgb(3, 47, 49);
+border-style: double;
+margin-top: 0%;
+margin-bottom:0%;
+padding: 20px 20px;
+
+text-align:center;
+text-transform: uppercase;
+}
+
+
+.cct{
+padding-right: 2%;
+   
+
+}
+
+.app{
+padding-right: 2%;
+
+}
+
+#block, #barnav{
+font-size: smaller;
+position: relative;  
+padding-bottom: 1%;
+text-align: center;
+border-style:none;
+text-transform: uppercase;
+background-color: rgb(33, 120, 128);
+margin-bottom: 0%;
+margin-top:0%;
+
+
+
+}
+
+.acc{
+
+    text-decoration:none;
+    background-color: rgb(133, 170, 252);
+    letter-spacing: 3px;
+
+    
+    
+   
+}
+ 
+
+.rr{
+    background-color: #fff;  
+    position: relative;
+    
+       
+       
+       
+   }
+   
+   
+   .ooi{
+       background-color:#fff; 
+       position: relative;
+       
+       
+   }
+   
+   .ests{ 
+       background-color: #fff; 
+       position: relative;
+      
+       
+   }
+   
+   .ide{
+       background-color: #fff; 
+       position: relative;
+       
+    }
+
+
+    #textblabla{
+
+        margin-top: 20%;
+        color: #fff;
+    }
+
+
+
+
+/*contact*/
+h2{
+    
+    text-align: center;
+    border-style:none;
+    background-color: rgb(33, 120, 128);
+    margin-bottom: 0%;
+    margin-top: 0%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    }
+
+
+.carte{
+    border-radius: 10%;
+    display: inline-block;
+    position:relative;
+
+   
+    
+}
+
+
+.carte, .positiontest{
+    position : absolute;
+    margin-top: 0%;
+    margin-left: 40%;   
+}
+/*
+.positiontest{
+    margin-top: 15%;
+    margin-left: 40%;    
+
+} */
+
+#maphoto {
+    
+    width: 80%;
+    cursor: pointer;
+
+    
+    
+
+}
+
+.pt1{
+position:relative;
+border-radius: 50%;
+border-top-left-radius: 10%; 
+width: 10%;
+
+}
+
+    /*Obsolescence*/
+
+    .rec3{
+
+        width: 13%;
+        text-align: center;
+        text-align: justify;
+
+    }
+
+    .title{
+        position: relative;
+        margin-left: 30%;
+        margin-right: 30%;
+        background-color: rgb(104, 155, 155);
+        text-align: center;
+    }
+
+    .montexte{
+        margin-left: 30%;
+        font-size: larger;
+        color: #fff;
+ }
+
+    *{
+        border-radius:30px;
+        padding: 8px;
+    }
+
+body{
+    min-height: 400vh;
+    transition: .5s;
+    text-align:center;
+    background-color: rgb(4, 4, 75);
+
+}
+
+
+    
+    
+       
+    #img1{
+        
+        height: 300px;
+        margin-top:5%;
+        
+    }
+
+    .show{
+        visibility: hidden;
+    }

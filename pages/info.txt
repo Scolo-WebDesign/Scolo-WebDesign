@@ -1,0 +1,42 @@
+javascript
+
+variable 
+const  et let
+
+********************************************
+ const prenom = "laurent"   
+cont est imuble donc la variable ne change pas
+***************************************
+
+let => variable appelé a evoluer
+let prenom = "laurent"
+prenom= "michel"
+
+*********concatenation**************
+console.log(nom, prenom);
+************************************
+
+            les fonctions :
+            *********ANCIENNE METHODE***************
+            function  jecrisquelqueschose() {  
+                 
+                    } 
+                    jecrisquelqueschose();
+            ****************************************
+*********NOUVELLE METHODE***************
+fonction fleché
+const chose = () => {
+}
+chose();
+*********************
+ajouter un parametre à la fonction (type est du hazard)
+
+const chose = (type) => {
+}
+console.log('chose : ' + type)
+
+chose(je fais la vaisselle);
+
+je fais la vaisselle devient<< le type>>
+
+/////////manipulation du DOM////////////////
